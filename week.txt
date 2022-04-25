@@ -1,2 +1,6 @@
 echo "Welcome to Weekday program"
 
+Sunday
+
+"Hello! Welcome to weekend"
+
