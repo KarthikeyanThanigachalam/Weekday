@@ -4,3 +4,7 @@ Sunday
 
 "Hello! Welcome to weekend"
 
+Monday
+
+"Hello! Welcome to Monday"
+
