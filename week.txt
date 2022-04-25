@@ -1,0 +1,2 @@
+echo "Welcome to Weekday program"
+
