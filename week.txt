@@ -8,3 +8,7 @@ Monday
 
 "Hello! Welcome to Monday"
 
+Tuesday 
+
+"Hello! Welcome to Tuesday"
+
