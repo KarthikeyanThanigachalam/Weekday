@@ -20,3 +20,7 @@ Thursday
 
 Hello!! Welcome to Thursday"
 
+Friday
+
+'Hello! Welcome to Friday'
+
