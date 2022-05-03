@@ -12,3 +12,11 @@ Tuesday
 
 "Hello! Welcome to Tuesday"
 
+Wednesday
+
+Hello Wednesday
+
+Thursday
+
+Hello!! Welcome to Thursday"
+
