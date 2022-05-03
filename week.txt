@@ -24,3 +24,7 @@ Friday
 
 'Hello! Welcome to Friday'
 
+Saturday
+
+"Hello Everyone!!! Welcome to Saturday.. Cool"
+
